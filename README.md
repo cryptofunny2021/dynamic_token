@@ -1,2 +1,2 @@
-# dynamic_token
 genlayer-contracts
+Dynamic token system with adaptive minting and burning logic.
