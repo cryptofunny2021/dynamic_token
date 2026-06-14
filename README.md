@@ -1,11 +1,21 @@
-genlayer-contracts
-Dynamic token system with adaptive minting and burning logic.
+# Dynamic Token
 
-## System Connection
+A GenLayer smart contract for maintaining dynamic user token balances.
 
-This contract is part of a 5-contract ecosystem:
+## Features
 
-- Reputation updates trigger token rewards
-- Token balance affects marketplace bidding
-- Disputes can reduce reputation
-- All actions are logged in interaction hub
+* Mint tokens
+* Store balances on-chain
+* Retrieve current balance
+
+## Files
+
+* contract.py
+
+## Network
+
+GenLayer Testnet
+
+## Author
+
+cryptofunny2021
